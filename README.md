@@ -65,6 +65,10 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter tensorflow kera
 - Model Selection
 - XGBoost
 
+## Code Templates 
+- Classification
+- Regression
+
 
 ## Datasets
 
