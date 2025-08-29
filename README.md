@@ -18,8 +18,8 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter tensorflow kera
 ## Learning Map and Repository Structure
 
 ### Data Preprocessing in Python
-- Tools: [Notebook](Part%201%20-%20Data%20Preprocessing%20/data_preprocessing_tools.ipynb) | [Script](Part%201%20-%20Data%20Preprocessing%20/data_preprocessing_tools.py)
-- Template: [Notebook](Part%201%20-%20Data%20Preprocessing%20/data_preprocessing_template.ipynb) | [Script](Part%201%20-%20Data%20Preprocessing%20/data_preprocessing_template.py)
+- Preprocessing Tools: [Notebook](Part%201%20-%20Data%20Preprocessing%20/data_preprocessing_tools.ipynb) | [Script](Part%201%20-%20Data%20Preprocessing%20/data_preprocessing_tools.py)
+- Prepreocessing Template: [Notebook](Part%201%20-%20Data%20Preprocessing%20/data_preprocessing_template.ipynb) | [Script](Part%201%20-%20Data%20Preprocessing%20/data_preprocessing_template.py)
 
 ### Regression
 - Decision Tree Regressor: [Notebook](Part%202%20-%20Regression/Decision%20Tree%20Regression/decision_tree_regression.ipynb) | [Script](Part%202%20-%20Regression/Decision%20Tree%20Regression/decision_tree_regression.py)
